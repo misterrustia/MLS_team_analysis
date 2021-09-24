@@ -1,0 +1,101 @@
+Rk,Squad,Season,MP,W,D,L,GF,GA,GD,Pts,xG,xGA,xGD,xGD/90,Attendance,Top Team Scorer,Goalkeeper,Notes
+1,NY Red Bulls,2018,34,22,5,7,62,33,+29,71,59.6,42,+17.6,+0.52,18601,Bradley Wright-Phillips - 20,Luis Robles,→ Conference Semifinals
+2,Atlanta Utd,2018,34,21,6,7,70,44,+26,69,71.4,37.8,+33.6,+0.99,53002,Josef Martínez - 31,Brad Guzan,→ Conference Semifinals
+3,NYCFC,2018,34,16,8,10,59,45,+14,56,55.2,40.9,+14.3,+0.43,23211,David Villa - 14,Sean Johnson,→ Knockout round
+4,D.C. United,2018,34,14,9,11,60,50,+10,51,46.7,48.2,-1.6,-0.05,17635,Wayne Rooney - 12,David Ousted,→ Knockout round
+5,Columbus Crew,2018,34,14,9,11,43,45,-2,51,48.1,38.1,+10.0,+0.29,12447,Gyasi Zardes - 19,Zack Steffen,→ Knockout round
+6,Philadelphia,2018,34,15,5,14,49,50,-1,50,53.2,50.2,+3.0,+0.09,16518,Fafà Picault Cory Burke - 10,Andre Blake,→ Knockout round
+7,Montreal Impact,2018,34,14,4,16,47,53,-6,46,42.5,50.3,-7.8,-0.23,18569,Ignacio Piatti - 16,Evan Bush,
+8,New England,2018,34,10,11,13,49,55,-6,41,43.1,50.6,-7.5,-0.22,18347,Cristian Penilla - 12,Matt Turner,
+9,Toronto FC,2018,34,10,6,18,59,64,-5,36,58.4,54.7,+3.7,+0.11,26628,Sebastian Giovinco - 13,Alex Bono,
+10,Chicago Fire,2018,34,8,8,18,48,61,-13,32,39.7,59.9,-20.2,-0.59,14806,Nemanja Nikolić - 15,Richard Sánchez,
+11,Orlando City,2018,34,8,4,22,43,74,-31,28,45,63,-17.9,-0.53,23866,Dom Dwyer - 13,Joe Bendik,
+1,Sporting KC,2018,34,18,8,8,65,40,+25,62,57.5,42.9,+14.6,+0.44,19950,Dániel Sallói - 11,Tim Melia,→ Conference Semifinals
+2,Seattle,2018,34,18,5,11,52,37,+15,59,46.5,44.7,+1.7,+0.05,40641,Raúl Ruidíaz - 10,Stefan Frei,→ Conference Semifinals
+3,Los Angeles FC,2018,34,16,9,9,68,52,+16,57,59.8,45.6,+14.2,+0.43,22042,Carlos Vela - 14,Tyler Miller,→ Knockout round
+4,FC Dallas,2018,34,16,9,9,52,44,+8,57,50.8,40.7,+10.1,+0.31,15512,Maximiliano Urruti Roland Lamah - 8,Jesse Gonzalez,→ Knockout round
+5,Portland Timbers,2018,34,15,9,10,54,48,+6,54,49.7,44.8,+4.9,+0.14,21144,Diego Valeri Sebastián Blanco - 10,Jeff Attinella,→ Knockout round
+6,Real Salt Lake,2018,34,14,7,13,55,58,-3,49,47.9,53.8,-5.8,-0.17,18605,Damir Kreilach - 12,Nick Rimando,→ Knockout round
+7,LA Galaxy,2018,34,13,9,12,66,64,+2,48,48.9,54.7,-5.9,-0.17,24444,Zlatan Ibrahimović - 22,David Bingham,
+8,Vancouver,2018,34,13,8,13,54,67,-13,47,50.4,57.6,-7.2,-0.21,21946,Kei Kamara - 14,Stefan Marinovic,
+9,Houston Dynamo,2018,34,10,8,16,58,58,0,38,53,51.2,+1.8,+0.05,16906,Mauro Manotas - 19,Joe Willis,
+10,Minnesota Utd,2018,34,11,3,20,49,71,-22,36,43.1,53.9,-10.7,-0.32,23902,Darwin Quintero - 11,Bobby Shuttleworth,
+11,Colorado Rapids,2018,34,8,7,19,36,63,-27,31,35.3,61.2,-25.9,-0.76,15333,Dominique Badji - 7,Tim Howard,
+12,San Jose,2018,34,4,9,21,49,71,-22,21,41.9,61.1,-19.2,-0.56,19032,Danny Hoesen - 12,Andrew Tarbell,
+1,NYCFC,2019,34,18,10,6,63,42,+21,64,51.8,44.6,+7.2,+0.22,21107,Héber - 15,Sean Johnson,→ Conference Semifinals
+2,Atlanta Utd,2019,34,18,4,12,58,43,+15,58,56.7,42.6,+14.1,+0.41,52510,Josef Martínez - 27,Brad Guzan,→ Round 1
+3,Philadelphia,2019,34,16,7,11,58,50,+8,55,54.8,41.8,+13.0,+0.38,17111,Kacper Przybyłko - 15,Andre Blake,→ Round 1
+4,Toronto FC,2019,34,13,11,10,57,52,+5,50,48.1,49.4,-1.4,-0.04,25048,Alejandro Pozuelo - 12,Quentin Westberg,→ Round 1
+5,D.C. United,2019,34,13,11,10,42,38,+4,50,37.8,48.1,-10.3,-0.3,17744,Wayne Rooney - 11,Bill Hamid,→ Round 1
+6,NY Red Bulls,2019,34,14,6,14,53,51,+2,48,49.6,49.6,0,0,17751,Daniel Royer - 11,Luis Robles,→ Round 1
+7,New England,2019,34,11,12,11,50,57,-7,45,44.8,54.9,-10.1,-0.3,16737,Carles Gil - 10,Matt Turner,→ Round 1
+8,Chicago Fire,2019,34,10,12,12,55,47,+8,42,53.2,44.6,+8.6,+0.26,12324,C.J. Sapong - 13,Kenneth Kronholm,
+9,Montreal Impact,2019,34,12,5,17,47,60,-13,41,38.4,50,-11.6,-0.34,16171,Saphir Taïder - 9,Evan Bush,
+10,Columbus Crew,2019,34,10,8,16,39,47,-8,38,37.1,41.8,-4.8,-0.14,14856,Gyasi Zardes - 13,Zack Steffen,
+11,Orlando City,2019,34,9,10,15,44,52,-8,37,43.6,42.4,+1.1,+0.03,22761,Nani - 12,Brian Rowe,
+12,FC Cincinnati,2019,34,6,6,22,31,75,-44,24,33,59.2,-26.2,-0.77,27336,Allan Cruz - 7,Spencer Richey,
+1,Los Angeles FC,2019,34,21,9,4,85,37,+48,72,77.3,36.5,+40.8,+1.20,22251,Carlos Vela - 34,Tyler Miller,→ Conference Semifinals
+2,Seattle,2019,34,16,8,10,52,49,+3,56,48.9,46.5,+2.4,+0.07,40247,Raúl Ruidíaz - 11,Stefan Frei,→ Round 1
+3,Real Salt Lake,2019,34,16,5,13,46,41,+5,53,36.6,40.4,-3.8,-0.11,18121,Albert Rusnák - 10,Nick Rimando,→ Round 1
+4,Minnesota Utd,2019,34,15,8,11,52,43,+9,53,52.8,44.5,+8.3,+0.24,19723,Darwin Quintero - 10,Vito Mannone,→ Round 1
+5,LA Galaxy,2019,34,16,3,15,58,59,-1,51,56.3,62.6,-6.4,-0.19,23205,Zlatan Ibrahimović - 30,David Bingham,→ Round 1
+6,Portland Timbers,2019,34,14,7,13,52,49,+3,49,52.9,56.3,-3.5,-0.1,25218,Jeremy Ebobisse Brian Fernández - 11,Steve Clark,→ Round 1
+7,FC Dallas,2019,34,13,9,12,54,46,+8,48,49.6,43.8,+5.8,+0.17,14842,Jesus Ferreira - 8,Jesse Gonzalez,→ Round 1
+8,San Jose,2019,34,13,5,16,52,55,-3,44,52.3,47.2,+5.1,+0.15,18781,Chris Wondolowski - 15,Mario Daniel Vega,
+9,Colorado Rapids,2019,34,12,6,16,58,63,-5,42,51,56.8,-5.8,-0.17,14284,Kei Kamara - 14,Tim Howard,
+10,Houston Dynamo,2019,34,12,4,18,49,59,-10,40,47.5,50.7,-3.2,-0.09,15674,Mauro Manotas - 13,Joe Willis,
+11,Sporting KC,2019,34,10,8,16,49,67,-18,38,57.9,51.3,+6.6,+0.19,18601,Felipe Gutiérrez - 12,Tim Melia,
+12,Vancouver,2019,34,8,10,16,37,59,-22,34,34.5,60.4,-25.9,-0.76,19514,Fredy Montero - 8,Maxime Crépeau,
+1,Philadelphia,2020,23,14,5,4,44,20,+24,47,35.5,25.5,+10.0,+0.44,,Sergio Santos Gomes Kacper Przybyłko - 8,Andre Blake,→ First Round
+2,Toronto FC,2020,23,13,5,5,33,26,+7,44,35.9,25.2,+10.6,+0.46,2297,Alejandro Pozuelo Ayo Akinola - 9,Quentin Westberg,→ First Round
+3,Columbus Crew,2020,23,12,5,6,36,21,+15,41,30.8,29.9,+0.9,+0.04,1861,Gyasi Zardes - 12,Eloy Room,→ First Round
+4,Orlando City,2020,23,11,8,4,40,25,+15,41,32,25.7,+6.3,+0.27,2321,Chris Mueller - 10,Pedro Gallese,→ First Round
+5,NYCFC,2020,23,12,3,8,37,25,+12,39,37.9,28.2,+9.7,+0.42,,Valentín Castellanos - 6,Sean Johnson,→ First Round
+6,NY Red Bulls,2020,23,9,5,9,29,31,-2,32,28.1,34,-5.9,-0.26,1570,Brian White - 5,Ryan Meara,→ First Round
+7,Nashville,2020,23,8,8,7,24,22,+2,32,23.9,25.4,-1.5,-0.06,6367,Hany Mukhtar Daniel Armando Ríos - 4,Joe Willis,→ Play-In Round
+8,New England,2020,23,8,8,7,26,25,+1,32,33,26.9,+6.1,+0.26,1529,Teal Bunbury - 8,Matt Turner,→ Play-In Round
+9,Montreal Impact,2020,23,8,2,13,33,43,-10,26,27.6,38.7,-11,-0.48,1616,Romell Quioto - 8,Clément Diop,→ Play-In Round
+10,Inter Miami,2020,23,7,3,13,25,35,-10,24,28.8,29.8,-1,-0.04,,Lewis Morgan - 5,Luis Robles,→ Play-In Round
+11,Chicago Fire,2020,23,5,8,10,33,39,-6,23,38.9,35.4,+3.5,+0.15,,Robert Berić - 12,Bobby Shuttleworth,
+12,Atlanta Utd,2020,23,6,4,13,23,30,-7,22,21.6,28.9,-7.4,-0.32,6275,Jon Gallagher - 4,Brad Guzan,
+13,D.C. United,2020,23,5,6,12,25,41,-16,21,21.8,36.9,-15.1,-0.65,2843,Ola Kamara - 4,Bill Hamid,
+14,FC Cincinnati,2020,23,4,4,15,12,36,-24,16,22.3,30.5,-8.2,-0.36,,Yuya Kubo - 3,Przemysław Tytoń,
+1,Sporting KC,2020,21,12,3,6,38,25,+13,39,33.1,25.9,+7.3,+0.35,1926,Johnny Russell Gadi Kinda... - 6,Tim Melia,→ First Round
+2,Seattle,2020,22,11,6,5,44,23,+21,39,41.8,20.9,+20.9,+0.95,6101,Raúl Ruidíaz - 12,Stefan Frei,→ First Round
+3,Portland Timbers,2020,23,11,6,6,46,35,+11,39,31.5,35.3,-3.8,-0.16,4228,Diego Valeri Jeremy Ebobisse - 8,Steve Clark,→ First Round
+4,Minnesota Utd,2020,21,9,7,5,36,26,+10,34,29.9,36.3,-6.4,-0.31,,Kevin Molino - 9,Dayne St. Clair,→ First Round
+5,FC Dallas,2020,22,9,7,6,28,24,+4,34,31.8,30.6,+1.3,+0.06,3758,Franco Jara - 7,Jimmy Maurer,→ First Round
+6,Los Angeles FC,2020,22,9,5,8,47,39,+8,32,41.6,29.1,+12.5,+0.57,3160,Diego Rossi - 14,Pablo Sisniega,→ First Round
+7,San Jose,2020,23,8,6,9,35,51,-16,30,32.2,37,-4.8,-0.21,2748,Chris Wondolowski - 7,Mario Daniel Vega,→ First Round
+8,Colorado Rapids,2020,18,8,4,6,32,28,+4,28,25.8,22.8,+2.9,+0.16,1866,Cole Bassett Jonathan Lewis - 5,William Yarbrough,→ First Round
+9,Vancouver,2020,23,9,0,14,27,44,-17,27,23.8,38,-14.1,-0.61,2011,Lucas Cavallini - 6,Thomas Hasal,
+10,LA Galaxy,2020,22,6,4,12,27,46,-19,22,26.6,35.5,-8.9,-0.4,2199,Cristian Pavón - 10,David Bingham,
+11,Real Salt Lake,2020,22,5,7,10,25,35,-10,22,26.3,28.7,-2.4,-0.11,3348,Damir Kreilach - 8,Andrew Putna,
+12,Houston Dynamo,2020,23,4,9,10,30,40,-10,21,36.1,37.7,-1.6,-0.07,3042,Darwin Quintero - 7,Marko Marić,
+1,New England,2021,27,18,5,4,51,32,+19,59,45.7,34.2,+11.5,+0.43,L W W D W,8748,Gustavo Bou - 12,Matt Turner
+2,Nashville,2021,25,11,11,3,44,24,+20,44,37.9,22.7,+15.2,+0.61,W W W L W,16664,Hany Mukhtar - 12,Joe Willis
+3,NYCFC,2021,25,11,6,8,44,29,+15,39,45.6,26,+19.6,+0.78,L L D W D,2713,Valentín Castellanos - 13,Sean Johnson
+4,Orlando City,2021,25,10,8,7,36,36,0,38,32.2,32.1,+0.1,+0.01,D W L L L,14168,Nani - 9,Pedro Gallese
+5,CF Montréal,2021,25,10,7,8,36,30,+6,37,35.7,33.8,+1.9,+0.07,D W L W W,917,Mason Toye - 7,James Pantemis
+6,Atlanta Utd,2021,25,9,9,7,35,30,+5,36,31.8,36.1,-4.4,-0.17,W L W W W,44342,Josef Martínez - 9,Brad Guzan
+7,Philadelphia,2021,24,9,8,7,31,25,+6,35,31.9,30.8,+1.1,+0.05,W D L L W,11224,Kacper Przybyłko - 8,Andre Blake
+8,D.C. United,2021,25,10,4,11,41,36,+5,34,40.1,27.9,+12.2,+0.49,L W D W L,10119,Ola Kamara - 16,Bill Hamid
+9,Inter Miami,2021,25,9,5,11,25,40,-15,32,24.5,36.4,-11.9,-0.48,W W W L L,11806,Gonzalo Higuaín - 10,Nick Marsman
+10,Columbus Crew,2021,26,8,7,11,30,35,-5,31,28,35.5,-7.5,-0.29,W L L W D,15770,Lucas Zelarayán - 7,Eloy Room
+11,NY Red Bulls,2021,24,7,6,11,30,29,+1,27,31.2,32,-0.8,-0.03,L D L W D,7792,Patryk Klimala - 7,Carlos Coronel
+12,Chicago Fire,2021,26,6,5,15,26,43,-17,23,34.5,39.2,-4.7,-0.18,W L L L L,8645,Luka Stojanović - 7,Bobby Shuttleworth
+13,FC Cincinnati,2021,24,4,8,12,24,44,-20,20,27.3,39.1,-11.8,-0.49,L L W L L,20732,Brenner - 7,Kenneth Vermeer
+14,Toronto FC,2021,25,4,6,15,28,51,-23,18,28.1,44.2,-16,-0.64,L L L L W,3108,Jonathan Osorio - 4,Alex Bono
+1,Sporting KC,2021,25,13,7,5,43,26,+17,46,41.4,36.8,+4.6,+0.18,D D L W W,14436,Dániel Sallói - 13,Tim Melia
+2,Seattle,2021,24,13,6,5,36,20,+16,45,33.2,26.8,+6.4,+0.27,W W L W L,22995,Raúl Ruidíaz - 14,Stefan Cleveland
+3,Colorado Rapids,2021,24,12,8,4,35,24,+11,44,35.7,28.7,+7.0,+0.29,D W D D D,7097,Michael Barrios - 7,William Yarbrough
+4,LA Galaxy,2021,25,11,5,9,37,40,-3,38,34.7,41.7,-7,-0.28,L D D D L,13307,Javier Hernández - 11,Jonathan Bond
+5,Portland Timbers,2021,25,11,4,10,36,42,-6,37,35.6,45.3,-9.7,-0.39,W W W D W,12992,Felipe Mora - 10,Steve Clark
+6,Real Salt Lake,2021,25,10,6,9,41,35,+6,36,34.6,32.5,+2.1,+0.08,L W L W W,13778,Damir Kreilach - 10,David Ochoa
+7,Minnesota Utd,2021,24,9,7,8,27,29,-2,34,35.6,29.4,+6.1,+0.26,D W L L W,12790,Robin Lod - 6,Tyler Miller
+8,Los Angeles FC,2021,25,9,6,10,38,36,+2,33,46.7,25.6,+21.1,+0.84,D W W W L,17344,Cristian Arango Diego Rossi - 6,Tomas Romero
+9,Vancouver,2021,24,7,9,8,30,34,-4,30,29.3,37.6,-8.2,-0.34,W W W L D,2395,Cristián Dajome - 8,Maxime Crépeau
+10,San Jose,2021,25,7,9,9,32,38,-6,30,35.5,40.8,-5.3,-0.21,W L D L W,8324,Javier Eduardo López - 10,J.T. Marcinkowski
+11,FC Dallas,2021,26,6,9,11,38,43,-5,27,36.7,41.3,-4.6,-0.18,W L D D L,13116,Ricardo Pepi - 12,Jimmy Maurer
+12,Houston Dynamo,2021,26,5,11,10,31,39,-8,26,30,37.4,-7.4,-0.29,L L W D W,11285,Fafà Picault - 10,Marko Marić
+13,Austin FC,2021,25,5,4,16,25,40,-15,19,32.7,42.2,-9.5,-0.38,L L L L L,19010,Diego Fagúndez - 6,Brad Stuver
